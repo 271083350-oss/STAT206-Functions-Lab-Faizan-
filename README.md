@@ -1,1 +1,0 @@
-# STAT206-Functions-Lab-Faizan-
